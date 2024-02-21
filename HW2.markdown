@@ -7,9 +7,11 @@ permalink: /HW2/
 # Here's is a smaller heading
 
 This is a paragraph
+
 **This will be bold** ~~this will be strikethrough~~ __this will be underlined__
 
 # Lists
+
 ## Unordered
 - item one
 - item two
