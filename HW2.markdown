@@ -27,3 +27,4 @@ This is a paragraph
 | git add | Stage changes for commit |
 | git commit | Record changes to repository |
 | git push | Upload local repository content to a remote repository |
+> This is a quote
