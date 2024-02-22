@@ -20,3 +20,10 @@ This is a paragraph
 2. Item 2
 3. Item 3
 4. Item 3a
+# Table
+
+| Command | Description |
+| --- | --- |
+| git add | Stage changes for commit |
+| git commit | Record changes to repository |
+| git push | Upload local repository content to a remote repository |
